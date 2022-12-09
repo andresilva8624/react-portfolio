@@ -8,11 +8,21 @@ function About() {
         <i className="fas fa-user-circle" style={{ fontSize: "96px" }}></i>
         </div>
         <p>
-        Helvetica put a bird on it church-key Blue Bottle banjo bespoke brunch Etsy authentic Marfa quinoa typewriter plaid direct trade small batch wayfarers bicycle rights cliche craft beer gastropub single-origin coffee Godard Carles you probably haven't heard of them irony pickled kitsch synth sriracha gentrify literally heirloom blog Truffaut paleo scenester
+        Born and raised in Porto Alegre, Brazil, I moved to Los Angeles in 2006 looking for oportunities in
+                    music. I've been playing guitar for over 20 years but also have I've worked on many different
+                    industries.
+                    I have a passion for working hard and making a difference on the community. I live with my
+                    girlfriend and my dog Django in the City Of Angels. I love to travel and have a good time with my
+                    friends.
         </p>
         <p>
-        Echo Park sriracha Pinterest vegan biodiesel 90's irony iPhone Kickstarter Carles crucifix kitsch narwhal dreamcatcher pickled trust fund selvage art party letterpress Tumblr post-ironic kogi Thundercats Tonx Brooklyn Pitchfork Odd Future authentic normcore freegan leggings Schlitz chambray organic tousled retro fap squid street art church-key fashion axe Wes Anderson bespoke whatever gentrify banh mi you probably haven't heard of them American Apparel next level pug ugh.
-        </p>
+        I'm
+                    currently studying software and web development at UCLA Bootcamp. Very excited to learn this new
+                    skill.
+                    I'm highly motivated and exceptionally professional having lead many teams throughout my journey.
+
+                    I looking forward to learn as much as possible as a software/web/app developer and apply my
+                    knowledge to make a difference.        </p>
       </div>
     </section>
   );
