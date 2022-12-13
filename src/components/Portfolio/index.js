@@ -1,15 +1,17 @@
 import React, { useState } from 'react';
 import Project from "../Project";
+import img1 from "../../assets/projects/led-wall.jpg"
 
 function Portfolio() {
 
   // Replace links with deployed projects and GitHub repos
-  const [projects] = useState([
+  const projects = [
     {
       name: 'Toxicity App',
       description: 'HTML/JavaScript/Node/Handlebars/MySQL/CSS',
       link: "https://toxicity2000.herokuapp.com/",
-      repo: "https://github.com/andresilva8624/toxicity"
+      repo: "https://github.com/andresilva8624/toxicity",
+      img: img1
     },
     {
       name: 'pastel-puzzels',
@@ -35,7 +37,7 @@ function Portfolio() {
       link: "https://github.com",
       repo: "https://github.com"
     },
-  ]);
+  ];
 
   return (
     <div>
