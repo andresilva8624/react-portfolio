@@ -1,4 +1,5 @@
 import React from 'react';
+import Image from '../../assets/cover/avatar2.JPG';
 
 function About() {
   return (
@@ -15,6 +16,7 @@ function About() {
                     girlfriend and my dog Django in the City Of Angels. I love to travel and have a good time with my
                     friends.
         </p>
+        <img src={Image} alt="wooden background"></img>
         <p>
         I'm
                     currently studying software and web development at UCLA Bootcamp. Very excited to learn this new

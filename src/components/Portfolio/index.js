@@ -1,6 +1,10 @@
 import React, { useState } from 'react';
 import Project from "../Project";
-import img1 from "../../assets/projects/led-wall.jpg"
+import img1 from "../../assets/images/toxicity.gif";
+import img2 from "../../assets/images/ecommerce.gif";
+import img3 from "../../assets/images/team.gif";
+import img4 from "../../assets/images/note.gif";
+import img5 from "../../assets/images/employee.gif"
 
 function Portfolio() {
 
@@ -14,28 +18,32 @@ function Portfolio() {
       img: img1
     },
     {
-      name: 'pastel-puzzels',
-      description: 'MERN Stack',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: 'E-Commerce App',
+      description: 'Node/JavaScript/Express/Insomnia',
+      link: "https://andresilva8624.github.io/E-Commerce-App/",
+      repo: "https://andresilva8624.github.io/E-Commerce-App/",
+      img: img2
     },
     {
-      name: 'run-buddy',
-      description: 'HTML/CSS',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: 'Team Generator',
+      description: 'HTML/Node/JavaScript/CSS',
+      link: "https://github.com/andresilva8624/Team-Generator",
+      repo: "https://github.com",
+      img: img3
     },
     {
-      name: 'led-wall',
-      description: 'Node/IoT',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: 'Note Taker',
+      description: 'HTML/Node/JavaScript/CSS',
+      link: "https://andres-note-taker.herokuapp.com/",
+      repo: "https://github.com/andres-note-taker/",
+      img: img4
     },
     {
-      name: 'calculator',
-      description: 'React/JavaScript/CSS',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: 'Employee Tracker',
+      description: 'MySQL/Node/JavaScript',
+      link: "https://andresilva8624.github.io/Employee-Tracker/",
+      repo: "https://github.com",
+      img: img5
     },
   ];
 

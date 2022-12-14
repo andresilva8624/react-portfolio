@@ -15,7 +15,7 @@ function Resume() {
           <li>jQuery</li>
           <li>Responsive Design</li>
           <li>React</li>
-          <li>Bootstrap</li>
+          <li>Bootstrap </li>
         </ul>
         <h3>Back-end Proficiencies</h3>
         <ul className="skills">
