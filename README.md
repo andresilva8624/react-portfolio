@@ -3,7 +3,7 @@
 
 ![Badge](https://img.shields.io/badge/AndreGitHub-MIT-green.svg)
 
-The goal of the project is to build an API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list. It uses Express.js for routing, a MongoDB database, and the Mongoose ODM. The walkthrough video attached demonstrates its functionality and all of the following acceptance criteria being met in Insomnia. Enjoy! 😀
+This is my Portfolio. It showcases some of the projects that I've done since starting my coding journey. All the projects that I've done showcase my skills as a Web/Software/App Developer utilizing HTML, Advanced CSS, JavaScript, Node.js, Express-Handlebars, MySQL, JQuery, API's, React, NoSQL, Object-Oriented Programming (OOP), Progressive Web Applications (PWA), Object-Relational Mapping (ORM), Model-View-Controller (MVC), MERN. Additional projects are on my Repositories folder in [GitHub](https://www.github.com/andresilva8624). Enjoy! 😀
 
 
 

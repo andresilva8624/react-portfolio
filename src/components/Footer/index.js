@@ -16,7 +16,7 @@ function Footer() {
       name: "fab fa-stack-overflow",
       link: "https://stackoverflow.com/andresilva8624"
     }
-    
+
   ]
 
   return (
@@ -24,11 +24,9 @@ function Footer() {
       {icons.map(icon =>
       (
         <a href={icon.link} key={icon.name} target="_blank" rel="noopener noreferrer"><i className={icon.name}></i></a>
-        
-        
       )
-      
-        )}
+
+      )}
     </footer>
   );
 }
