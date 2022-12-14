@@ -9,7 +9,7 @@ function About() {
         <i className="fas fa-user-circle" style={{ fontSize: "96px" }}></i>
         </div>
         <p>
-        Born and raised in Porto Alegre, Brazil, I moved to Los Angeles in 2006 looking for to pursue a career in music. I've been playing guitar for over 20 years but also have I've worked on many different
+        Born and raised in Porto Alegre, Brazil, I moved to Los Angeles in 2006 looking to pursue a career in music. I've been playing guitar for over 20 years but also have I've worked on many different
                     industries.
                     I have a passion for working hard and making a difference on the community. I live with my
                     girlfriend and my dog Django in the City Of Angels. I love to travel and have a good time with my
