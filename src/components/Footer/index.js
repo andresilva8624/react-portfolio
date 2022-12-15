@@ -21,12 +21,15 @@ function Footer() {
 
   return (
     <footer className="flex-row px-1">
+    <p>Andre Silva 2022 ©</p>
       {icons.map(icon =>
       (
         <a href={icon.link} key={icon.name} target="_blank" rel="noopener noreferrer"><i className={icon.name}></i></a>
       )
       )}
+        
     </footer>
+    
   );
 }
 

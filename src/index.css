@@ -2,6 +2,7 @@ main {
   margin: 0 auto;
   max-width: 90%;
   padding: 50px 30px;
+  display: flex;
 }
 :root {
   --primary: #425697;
@@ -10,7 +11,7 @@ main {
   --light: #fafafa;
   --dark: #347fb1;
   --darker: #1F3B60;
-  --alpha: rgba(255,255,255,.7);
+  --alpha: rgba(255, 255, 255, 0.7);
   --error: rgb(228, 46, 1);
   --spacing-one: calc(1rem * 0.5);
   --spacing-two: calc(1rem);
@@ -58,7 +59,7 @@ h1 {
 }
 
 h2 {
-  font-size: 2rem;
+  font-size: 3rem;
 }
 
 h3 {
@@ -119,7 +120,11 @@ button {
 
 
 button:hover {
-  opacity: 1;
+  cursor: pointer;
+  transform: scale(1.1);
+  opacity: 100%;
+  box-shadow: 10px 5px 5px black;
+  border: solid 7px #d3b460;
 }
 
 button[disabled] {
@@ -194,13 +199,27 @@ nav {
 }
 
 nav a:hover {
-  text-decoration: none;
+  /* text-decoration: none; */
+  background-color: var(--alpha);
+  opacity: 1.2;
+  border: 10px solid var(--secondary);
+  cursor: pointer;
+  transform: scale(1.1);
 }
 
 nav li {
   cursor: pointer;
   text-shadow: 2px 2px 10px rgba(0,0,0, 0.5);
   margin: 0 50px;
+  
+}
+nav li:hover {
+  /* text-decoration: none; */
+  /* background-color: var(--alpha); */
+  opacity: 1.2;
+  /* border: 10px solid var(--secondary); */
+  cursor: pointer;
+  transform: scale(1.2);
 }
 
 ul.skills {
@@ -338,8 +357,13 @@ textarea {
 
 .project-text:hover {
   background-color: var(--alpha);
-  opacity: 1;
+  opacity: 1.2;
   border: 10px solid var(--secondary);
+  cursor: pointer;
+  transform: scale(1.15);
+  /* opacity: 100%; */
+  /* box-shadow: 10px solid var(--secondary); */
+  /* border: solid 7px #d3b460; */
 }
 
 .project-text h3 {
