@@ -10,7 +10,7 @@ function Footer() {
     },
     {
       name: "fab fa-linkedin",
-      link: "www.linkedin.com/in/andresilva8624"
+      link: "https://linkedin.com/in/andresilva8624"
     },
     {
       name: "fab fa-stack-overflow",

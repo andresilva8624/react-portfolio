@@ -128,7 +128,8 @@ button[disabled] {
 }
 
 img {
-  max-width: 100%;
+  max-width:min-content;
+
 }
 
 span[role='img'] {
