@@ -19,7 +19,7 @@ function App() {
   const [currentPage, setCurrentPage] = useState(pages[0]);
 
   return (
-    <div>
+    <>
       <Header>
         <Nav
           pages={pages}
@@ -31,7 +31,7 @@ function App() {
         <Page currentPage={currentPage}></Page>
       </main>
       <Footer />
-    </div>
+    </>
   );
 }
 

@@ -4,12 +4,12 @@ main {
   padding: 50px 30px;
 }
 :root {
-  --primary: #2b47a1;
+  --primary: #425697;
   --secondary: #2c303d;
   --tertiary: #b12704;
   --light: #fafafa;
   --dark: #347fb1;
-  --darker: #1b3455;
+  --darker: #1F3B60;
   --alpha: rgba(255,255,255,.7);
   --error: rgb(228, 46, 1);
   --spacing-one: calc(1rem * 0.5);
@@ -19,7 +19,7 @@ main {
 
 * {
   box-sizing: border-box;
-}
+}image.png
 
 html,
 body {
