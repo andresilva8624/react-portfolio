@@ -3,7 +3,7 @@
 
 ![Badge](https://img.shields.io/badge/AndreGitHub-MIT-green.svg)
 
-This is my Portfolio. It showcases some of the projects that I've done since starting my coding journey. All the projects that I've done showcase my skills as a Web/Software/App Developer utilizing HTML, Advanced CSS, JavaScript, Node.js, Express-Handlebars, MySQL, JQuery, API's, React, NoSQL, Object-Oriented Programming (OOP), Progressive Web Applications (PWA), Object-Relational Mapping (ORM), Model-View-Controller (MVC), MERN. Additional projects are on my Repositories folder in [GitHub](https://www.github.com/andresilva8624). Enjoy! 😀
+This is my Portfolio made with REACT. It showcases some of the projects that I've done since starting my coding journey. All the projects that I've done showcase my skills as a Web/Software/App Developer utilizing HTML, Advanced CSS, JavaScript, Node.js, Express-Handlebars, MySQL, JQuery, API's, REACT, NoSQL, Object-Oriented Programming (OOP), Progressive Web Applications (PWA), Object-Relational Mapping (ORM), Model-View-Controller (MVC), MERN. Additional projects are on my Repositories folder in [GitHub](https://www.github.com/andresilva8624). Enjoy! 😀
 
 
 
@@ -19,9 +19,9 @@ Clone the repository to your local machine and open the package.json on your Ter
 
 ## Usage
 
-[Deployed Site Repository](https://github.com/andresilva8624/react-portfolio)
+[Deployed Site Repository](https://andresilva8624.github.io/React-Portfolio/)
 
-[Deployed Site Web](https://andresilva8624.github.io/react-portfolio/)
+[Deployed Site Web](https://andresilva8624.github.io/React-Portfolio/)
 
 ![gif of deployed site](/src/assets/images/about.gif)
 
