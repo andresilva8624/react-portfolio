@@ -19,6 +19,7 @@ main {
 
 * {
   box-sizing: border-box;
+  font-family: 'Lora', serif;
 }image.png
 
 html,
@@ -35,7 +36,7 @@ body {
   letter-spacing: 0.1em;
   background: var(--darker);
   color: var(--light);
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Lora', serif;
 }
 
 h1,
@@ -44,7 +45,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Aladin', cursive;
+  /* font-family: 'Aladin', cursive; */
   font-weight: 500;
   margin: 5px 0;
   line-height: 1.25;
