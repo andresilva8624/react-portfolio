@@ -8,6 +8,8 @@ import img5 from "../../assets/images/employee.gif";
 import img6 from "../../assets/images/fort.gif";
 import img7 from "../../assets/images/quiz.gif";
 import img8 from "../../assets/images/horiseon-project.gif";
+import img9 from "../../assets/images/website.gif";
+import img10 from "../../assets/images/website2.gif";
 
 function Portfolio() {
 
@@ -28,18 +30,18 @@ function Portfolio() {
       img: img1
     },
     {
+      name: 'Weather Dashboard',
+      description: 'HTML/Node/JavaScript/CSS',
+      link: "https://andresilva8624.github.io/Andre-Weather-Dashboard//",
+      repo: "https://github.com/andresilva8624/Andre-Weather-Dashboard",
+      img: img9
+    },
+    {
       name: 'JavaScript Quiz',
       description: 'HTML/CSS/JavaScript',
       link: "https://andresilva8624.github.io/Andre-JavaScript-Quiz/",
       repo: "https://github.com/andresilva8624/Andre-JavaScript-Quiz",
       img: img7
-    },
-    {
-      name: 'E-Commerce App',
-      description: 'Node/JavaScript/Express/Insomnia',
-      link: "https://andresilva8624.github.io/E-Commerce-App/",
-      repo: "https://andresilva8624.github.io/E-Commerce-App/",
-      img: img2
     },
     {
       name: 'Horiseon SEO',
@@ -48,6 +50,14 @@ function Portfolio() {
       repo: "https://github.com/andresilva8624/Horiseon-SEO",
       img: img8
     },
+    {
+      name: 'E-Commerce App',
+      description: 'Node/JavaScript/Express/Insomnia',
+      link: "https://andresilva8624.github.io/E-Commerce-App/",
+      repo: "https://andresilva8624.github.io/E-Commerce-App/",
+      img: img2
+    },
+
   
     {
       name: 'Team Generator',
@@ -56,7 +66,7 @@ function Portfolio() {
       repo: "https://github.com",
       img: img3
     },
-    
+   
     {
       name: 'Note Taker',
       description: 'HTML/Node/JavaScript/CSS',
@@ -71,7 +81,13 @@ function Portfolio() {
       repo: "https://github.com",
       img: img5
     },
-    
+    {
+      name: 'Workday Schedule',
+      description: 'HTML/CSS/JavaScript',
+      link: "https://andresilva8624.github.io/Daily-Work-Schedule/",
+      repo: "https://github.com/andresilva8624/Daily-Work-Schedule",
+      img: img10
+    },
   ];
 
   return (
