@@ -21,11 +21,9 @@ Clone the repository to your local machine and open the package.json on your Ter
 
 [Deployed Site Repository](https://github.com/andresilva8624/react-portfolio)
 
-[Deployed Site Web](https://andresilva8624.github.io/react-portfolioi/)
+[Deployed Site Web](https://andresilva8624.github.io/react-portfolio/)
 
-[Demonstrational Video Link]()
-
-![gif of deployed site](/models/website.gif)
+![gif of deployed site](/src/assets/images/about.gif)
 
 
 
