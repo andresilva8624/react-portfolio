@@ -1,4 +1,4 @@
-# Portfolio made with REACT
+# REACT Portfolio 
 
 
 ![Badge](https://img.shields.io/badge/AndreGitHub-MIT-green.svg)
