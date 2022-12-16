@@ -19,7 +19,7 @@ Clone the repository to your local machine and open the package.json on your Ter
 
 ## Usage
 
-[Deployed Site Repository](https://andresilva8624.github.io/React-Portfolio/)
+[Deployed Site Repository](https://github.com/andresilva8624/React-Portfolio)
 
 [Deployed Site Web](https://andresilva8624.github.io/React-Portfolio/)
 
