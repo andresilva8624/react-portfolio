@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d2cd5e4e.css",
+    "main.js": "/static/js/main.1dd49411.js",
+    "static/media/employee.gif": "/static/media/employee.0f5a47d854c4a6a455f8.gif",
+    "static/media/team.gif": "/static/media/team.53e3a53b48ce33aaf53d.gif",
+    "static/media/website.gif": "/static/media/website.c27c6eb74ecb787e3dd3.gif",
+    "static/media/fort.gif": "/static/media/fort.bc058fa7d7307239c7d3.gif",
+    "static/media/horiseon-project.gif": "/static/media/horiseon-project.cad2abc208ab347055a6.gif",
+    "static/media/screen.jpg": "/static/media/screen.0687b47f7056c5125684.jpg",
+    "static/media/website2.gif": "/static/media/website2.a4d7a38c0cb43e60b45f.gif",
+    "static/media/quiz.gif": "/static/media/quiz.cd1854606871e1583c7f.gif",
+    "static/media/ecommerce.gif": "/static/media/ecommerce.34c7b8e889202ce6e3ed.gif",
+    "static/media/toxicity.gif": "/static/media/toxicity.7d9cbc5f52d37679fcf4.gif",
+    "static/media/note.gif": "/static/media/note.5e0939fca18b5a3b6fae.gif",
+    "static/media/avatar2.JPG": "/static/media/avatar2.6c67a462244c0f87a8c5.JPG",
+    "index.html": "/index.html",
+    "main.d2cd5e4e.css.map": "/static/css/main.d2cd5e4e.css.map",
+    "main.1dd49411.js.map": "/static/js/main.1dd49411.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2cd5e4e.css",
+    "static/js/main.1dd49411.js"
+  ]
+}
