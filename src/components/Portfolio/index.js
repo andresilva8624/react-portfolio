@@ -10,11 +10,19 @@ import img7 from "../../assets/images/quiz.gif";
 import img8 from "../../assets/images/horiseon-project.gif";
 import img9 from "../../assets/images/website.gif";
 import img10 from "../../assets/images/website2.gif";
+import img11 from "../../assets/images/blog.gif";
 
 function Portfolio() {
 
   // Replace links with deployed projects and GitHub repos
   const projects = [
+    {
+      name: 'Andres Music Blog',
+      description: 'MERN/React/GraphQL/HTML/CSS/Javascript/Bootstrap',
+      link: "https://andre-tech-blog.herokuapp.com/",
+      repo: "https://github.com/andresilva8624/andres-music-blog",
+      img: img11
+    },
     {
       name: 'Fortnite App Store',
       description: 'HTML/CSS/Javascript/JQuery/Bulma/FortniteTrackerAPI/FortniteAPI',
