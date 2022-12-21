@@ -3,6 +3,7 @@ main {
   max-width: 90%;
   padding: 50px 30px;
   display: flex;
+  flex-wrap: wrap;
 }
 :root {
   --primary: #425697;
@@ -19,6 +20,7 @@ main {
 }
 
 * {
+  
   box-sizing: border-box;
   font-family: 'Lora', serif;
 }image.png
@@ -38,6 +40,8 @@ body {
   background: var(--darker);
   color: var(--light);
   font-family: 'Lora', serif;
+  display: flex;
+  flex-wrap: wrap;
 }
 
 h1,
@@ -54,7 +58,7 @@ h6 {
 
 h1 {
   font-size: 5rem;
-  margin: 50px 20px;
+  margin: 20px 30px 30px 30px;
   text-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
 }
 
@@ -170,7 +174,7 @@ li {
 }
 
 header {
-  height: 200px;
+  /* height: 200px; */
   position: relative;
   overflow: hidden;
   z-index: 2;
@@ -195,7 +199,7 @@ nav {
   position: relative;
   font-family: 'Aladin', cursive;
   font-size: 2.5rem;
-  margin: 30px 20px;
+  margin: 35px 0px;
 }
 
 nav a:hover {
@@ -391,8 +395,8 @@ textarea {
     position: static;
     display: block;
     z-index: 100;
-    margin: 0 10px;
-    font-size: 2rem;
+    /* margin: 0 10px; */
+    font-size: 3rem;
   }
   header h1 {
     display: block;
@@ -404,12 +408,12 @@ textarea {
     position: static;
     display: block;
     z-index: 100;
-    margin: 0 10px;
-    font-size: 1.3rem;
+    /* margin: 0 10px; */
+    /* font-size: 1.3rem; */
   }
   header h1 {
     display: block;
-    margin: 5px 10px;
+    /* margin: 5px 10px; */
     height: 15px;
     width: 100%;
     text-align: center;
