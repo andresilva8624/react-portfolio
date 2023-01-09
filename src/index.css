@@ -41,6 +41,7 @@ body {
   color: var(--light);
   font-family: 'Lora', serif;
   display: flex;
+  flex-direction: column;
   flex-wrap: wrap;
 }
 
@@ -395,7 +396,7 @@ textarea {
     position: static;
     display: block;
     z-index: 100;
-    /* margin: 0 10px; */
+    margin: 0 10px;
     font-size: 2.5rem;
   }
   header h1 {
@@ -408,12 +409,12 @@ textarea {
     position: static;
     display: block;
     z-index: 100;
-    /* margin: 0 10px; */
+    margin: 0 10px;
     font-size: 1.8rem;
   }
   header h1 {
     display: block;
-    /* margin: 5px 10px; */
+    margin: 5px 10px;
     height: 15px;
     width: 100%;
     text-align: center;
