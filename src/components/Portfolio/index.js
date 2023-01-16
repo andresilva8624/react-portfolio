@@ -19,7 +19,7 @@ function Portfolio() {
     {
       name: 'Andres Music Blog',
       description: 'MERN/React/GraphQL/HTML/CSS/Javascript/Bootstrap',
-      link: "https://andre-tech-blog.herokuapp.com/",
+      link: "https://andres-music-blog.herokuapp.com/",
       repo: "https://github.com/andresilva8624/andres-music-blog",
       img: img11
     },
