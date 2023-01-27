@@ -42,6 +42,7 @@ function Contact() {
 
   return (
     <section>
+      <a href="mailto:andresilva8624@gmail.com?body=My custom mail body">E-Mail to Andre Silva</a>
       <form id="contact-form" onSubmit={handleSubmit}>
         <div>
           <label htmlFor="name">Name:</label>
