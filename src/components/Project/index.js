@@ -24,7 +24,7 @@ function Project({ project }) {
       </div>
      
     
-     <div className="project-text">
+     {/* <div className="project-text">
      <h3>
        <a href={link}>{removeHyphensAndCapitalize(name)}</a>{' '}
        <a href={repo}>
@@ -32,7 +32,7 @@ function Project({ project }) {
        </a>
      </h3>
      <p>{description}</p>
-     </div>
+     </div> */}
     
     </div>
   );

@@ -95,7 +95,8 @@ function Portfolio() {
       description: 'HTML/CSS/JavaScript',
       link: "https://andresilva8624.github.io/Daily-Work-Schedule/",
       repo: "https://github.com/andresilva8624/Daily-Work-Schedule",
-      img: img10
+      img: img10,
+      
     },
   ];
 
@@ -108,6 +109,7 @@ function Portfolio() {
             key={"project" + idx}
           />
         ))}
+        
       </div>
     </div>
   );
